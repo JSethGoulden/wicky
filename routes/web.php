@@ -7,4 +7,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::resource('dailyscape', ActivityController::class)->only(['index', 'update']);
+Route::get('dailyscape', [ActivityController::class, 'index']);
+Route::patch('dailyscape/{activity}', [ActivityController::class, 'update']);

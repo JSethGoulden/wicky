@@ -12,9 +12,11 @@ class UpdateActivityRequest extends FormRequest
      */
     public function authorize(): bool
     {
-        $activity = Activity::find($this->route('dailyscape.update'));
+        $activity = $this->route('activity');
 
-        return $activity && $this->user()->can('update', $activity);
+        //placeholder until user registration is added
+        return $activity && request()->ip() === '127.0.0.1';
+        // return $activity && $this->user()->can('update', $activity);
     }
 
     /**
@@ -25,7 +27,7 @@ class UpdateActivityRequest extends FormRequest
     public function rules(): array
     {
         return [
-            //
+            'completed' => 'required|boolean'
         ];
     }
 }

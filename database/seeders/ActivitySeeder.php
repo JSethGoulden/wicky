@@ -20,8 +20,7 @@ class ActivitySeeder extends Seeder
             "Reaper Assignment",
             "PoF",
             "Nemi Forest",
-            "Guthix Cache 1",
-            "Guthix Cache 2",
+            "Guthix Caches",
             "Menaphos Obelisks",
             "Menaphos Scarabs",
             "Shop Run"

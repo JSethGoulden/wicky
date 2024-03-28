@@ -9,9 +9,11 @@
 
     <!-- Tailwind -->
     <script src="https://cdn.tailwindcss.com"></script>
+
+    @vite(['resources/js/app.js'])
 </head>
 
-<body class="antialiased bg-slate-200 text-slate-700 mx-2">
+<body id="app" class="antialiased bg-slate-200 text-slate-700 mx-2">
     {{ $slot }}
 </body>
 

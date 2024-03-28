@@ -10,4 +10,6 @@ class ActivityHistory extends Model
     use HasFactory;
 
     protected $table = 'activity_history';
+
+    protected $guarded = [];
 }

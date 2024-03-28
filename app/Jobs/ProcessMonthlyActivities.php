@@ -33,7 +33,7 @@ class ProcessMonthlyActivities implements ShouldQueue
         ])->get();
 
         foreach ($activites as $activity) {
-            ActivityHistory::create(['activiy_id' => $activity->id]);
+            ActivityHistory::create(['activity_id' => $activity->id]);
         }
     }
 }

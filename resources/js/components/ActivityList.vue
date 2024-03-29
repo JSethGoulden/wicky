@@ -4,7 +4,6 @@ import ActivityItem from "./ActivityItem.vue";
 
 const props = defineProps({
     title: String,
-    description: String,
     activities: Array,
 });
 </script>
@@ -23,9 +22,7 @@ const props = defineProps({
                 <!-- buttons  -->
             </div>
         </div>
-        <p class="text-slate-500">
-            {{ description }}
-        </p>
+        <p class="text-slate-500">blah</p>
 
         <div class="my-5">
             <ActivityItem
@@ -35,8 +32,6 @@ const props = defineProps({
                 :initialCompleted="!!activity.completed"
             />
         </div>
-        <p class="text-xs text-slate-500 text-center">
-            Something something footer
-        </p>
+        <p class="text-xs text-slate-500 text-center">blah</p>
     </div>
 </template>

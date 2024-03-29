@@ -8,8 +8,10 @@
             </activity-list>
         </div>
         <div>
+            <flash-event-widget></flash-event-widget>
             <activity-list :title="'Dailies'" :activities="{{ $dailies }}">
             </activity-list>
         </div>
     </div>
+
 </x-layout>

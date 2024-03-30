@@ -44,7 +44,10 @@ const displayTime = computed(() => {
 });
 
 const shouldNotify = computed(() => {
-    return lastNotification.value != currentFlashEvent.value.name;
+    return (
+        minutesInHour.value === 55 &&
+        lastNotification.value != currentFlashEvent.value.name
+    );
 });
 
 const backgroundClass = computed(() => {
@@ -77,6 +80,14 @@ const updateTime = () => {
 
 const sendFlashEventNotification = () => {
     if (!Notification.permission === "granted") return;
+
+    if (currentFlashEvent.value.isSpecial) {
+        speechSynthesis.speak(
+            new SpeechSynthesisUtterance(
+                `${currentFlashEvent.value.name} is starting soon!`
+            )
+        );
+    }
 
     lastNotification.value = currentFlashEvent.value.name;
     new Notification(`${currentFlashEvent.value.name} is starting soon!`);

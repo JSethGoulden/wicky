@@ -1,5 +1,7 @@
 <script setup>
 import { computed, ref, onMounted } from "vue";
+import Notification from "./Notification.vue";
+
 const events = [
     { name: "Spider Swarm", isSpecial: false },
     { name: "Unnatural Outcrop", isSpecial: false },
@@ -16,102 +18,76 @@ const events = [
     { name: "Displaced Energy", isSpecial: false },
     { name: "Evil Bloodwood Tree", isSpecial: true },
 ];
+const flashEventStart = new Date("2022-10-17T11:00:00Z");
+const notificationTimeThreshold = 5 * 60 * 1000;
+const now = ref(new Date(Date.now() + new Date().getTimezoneOffset() * 60000));
+const timeLeft = computed(() => 3600000 - (now.value.getTime() % 3600000));
+const displayTime = computed(() => {
+    if (timeLeft.value >= 59 * 60 * 1000) {
+        return "Happening Now";
+    }
+    const minutes = "" + Math.floor((timeLeft.value / (1000 * 60)) % 60);
+    let seconds = "" + Math.floor((timeLeft.value / 1000) % 60);
 
-const hoursSinceEventStart = ref(0);
-const minutesInHour = ref(0);
-const secondsSinceHourStart = ref(0);
-const startTime = new Date("2022-10-17T11:00:00Z");
-const shouldShowNotificationButton = Notification.permission !== "granted";
-let lastNotification = ref("");
+    if (seconds < 10) {
+        seconds = "0" + seconds;
+    }
+    return `${minutes}:${seconds}`;
+});
 
 const currentFlashEvent = computed(() => {
-    let eventIndex = hoursSinceEventStart.value;
-    if (minutesInHour.value < 6) {
-        eventIndex = Math.max(0, eventIndex - 1);
-    }
-    return events[eventIndex % events.length];
+    console.log("computing...");
+    const hoursSinceStart = Math.floor(
+        (now.value.getTime() - flashEventStart.getTime()) / (1000 * 60 * 60)
+    );
+
+    return events[hoursSinceStart % events.length];
 });
 
-const displayTime = computed(() => {
-    if (minutesInHour.value < 5) {
-        return "Happening now";
-    }
-
-    const remainingTime = 60 - minutesInHour.value;
-    const minutes = Math.floor(remainingTime);
-
-    return `in ${minutes} minutes, ${60 - secondsSinceHourStart.value} seconds`;
-});
-
+const lastNotifiedEvent = ref("");
 const shouldNotify = computed(() => {
     return (
-        minutesInHour.value === 55 &&
-        lastNotification.value != currentFlashEvent.value.name
+        timeLeft.value <= notificationTimeThreshold &&
+        lastNotifiedEvent.value !== currentFlashEvent.value.name
     );
 });
 
 const backgroundClass = computed(() => {
-    if (minutesInHour.value <= 5) {
+    if (timeLeft.value >= 59 * 60 * 1000) {
         return "bg-green-100";
     }
 
-    if (minutesInHour.value >= 55) {
+    if (timeLeft.value <= notificationTimeThreshold) {
         return "bg-yellow-100";
     }
 
     return "bg-white";
 });
 
-const updateTime = () => {
-    const utcTime = new Date(
-        new Date().getTime() + new Date().getTimezoneOffset() * 60000
-    );
-    const timeDifference = utcTime.getTime() - startTime.getTime();
+const tick = () => {
+    now.value = new Date(Date.now() + new Date().getTimezoneOffset() * 60000);
+};
 
-    hoursSinceEventStart.value = Math.floor(timeDifference / (1000 * 60 * 60));
-    minutesInHour.value = utcTime.getMinutes();
-    secondsSinceHourStart.value = utcTime.getSeconds();
-
-    if (shouldNotify.value) {
-        console.log(shouldNotify.value);
-        sendFlashEventNotification();
+onMounted(() => {
+    if (timeLeft.value < notificationTimeThreshold) {
+        lastNotifiedEvent.value = currentFlashEvent.value.name;
     }
-};
-
-const sendFlashEventNotification = () => {
-    if (!Notification.permission === "granted") return;
-
-    if (currentFlashEvent.value.isSpecial) {
-        speechSynthesis.speak(
-            new SpeechSynthesisUtterance(
-                `${currentFlashEvent.value.name} is starting soon!`
-            )
-        );
-    }
-
-    lastNotification.value = currentFlashEvent.value.name;
-    new Notification(`${currentFlashEvent.value.name} is starting soon!`);
-};
-
-const requestNotificationPermission = () => {
-    Notification.requestPermission();
-};
-
-onMounted(updateTime);
-setInterval(updateTime, 1000);
+    setInterval(tick, 1000);
+});
 </script>
 <template>
     <div
         :class="backgroundClass"
         class="max-w-lg mx-auto my-4 p-6 rounded-xl shadow shadow-slate-300 text-center"
     >
-        <h1 class="text-3xl font-medium">{{ currentFlashEvent.name }}</h1>
-        <p class="text-slate-500">{{ displayTime }}</p>
-        <button
-            v-show="shouldShowNotificationButton"
-            @click="requestNotificationPermission"
-        >
-            Allow Notifications
-        </button>
+        <h1 class="text-3xl font-medium">
+            {{ currentFlashEvent.name }}
+        </h1>
+        <p>{{ displayTime }}</p>
+        <Notification
+            v-if="shouldNotify"
+            :message="currentFlashEvent.name + ' is starting soon!'"
+            :isSpecial="currentFlashEvent.isSpecial"
+        ></Notification>
     </div>
 </template>

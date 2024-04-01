@@ -20,6 +20,7 @@ const events = [
 ];
 const flashEventStart = new Date("2022-10-17T11:00:00Z");
 const notificationTimeThreshold = 5 * 60 * 1000;
+const eventDuration = 2 * 60 * 1000;
 const now = ref(new Date(Date.now() + new Date().getTimezoneOffset() * 60000));
 const timeLeft = computed(() => 3600000 - (now.value.getTime() % 3600000));
 const displayTime = computed(() => {
@@ -37,9 +38,16 @@ const displayTime = computed(() => {
 
 const currentFlashEvent = computed(() => {
     console.log("computing...");
+
     const hoursSinceStart = Math.floor(
         (now.value.getTime() - flashEventStart.getTime()) / (1000 * 60 * 60)
     );
+
+    //evemt is still happening, so show the current event rather than next event
+    if (timeLeft.value + eventDuration >= 60 * 60 * 1000) {
+        console.log("event is ongoing");
+        return events[(hoursSinceStart - 1) % events.length];
+    }
 
     return events[hoursSinceStart % events.length];
 });
@@ -53,7 +61,7 @@ const shouldNotify = computed(() => {
 });
 
 const backgroundClass = computed(() => {
-    if (timeLeft.value >= 59 * 60 * 1000) {
+    if (timeLeft.value >= 60 * 60 * 1000 - eventDuration) {
         return "bg-green-100";
     }
 

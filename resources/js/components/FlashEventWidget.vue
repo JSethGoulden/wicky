@@ -37,15 +37,12 @@ const displayTime = computed(() => {
 });
 
 const currentFlashEvent = computed(() => {
-    console.log("computing...");
-
     const hoursSinceStart = Math.floor(
         (now.value.getTime() - flashEventStart.getTime()) / (1000 * 60 * 60)
     );
 
     //evemt is still happening, so show the current event rather than next event
     if (timeLeft.value + eventDuration >= 60 * 60 * 1000) {
-        console.log("event is ongoing");
         return events[(hoursSinceStart - 1) % events.length];
     }
 

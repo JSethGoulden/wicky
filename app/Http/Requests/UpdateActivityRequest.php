@@ -2,7 +2,6 @@
 
 namespace App\Http\Requests;
 
-use App\Models\Activity;
 use Illuminate\Foundation\Http\FormRequest;
 
 class UpdateActivityRequest extends FormRequest
@@ -27,7 +26,7 @@ class UpdateActivityRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'completed' => 'required|boolean'
+            'completed' => 'required|boolean',
         ];
     }
 }

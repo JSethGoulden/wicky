@@ -29,7 +29,7 @@ class ProcessWeeklyActivities implements ShouldQueue
     {
         $activites = Activity::where([
             ['type', '=', 'weekly'],
-            ['completed', '=', true]
+            ['completed', '=', true],
         ])->get();
 
         foreach ($activites as $activity) {

@@ -3,7 +3,6 @@
 namespace Database\Seeders;
 
 use App\Models\Activity;
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
 class ActivitySeeder extends Seeder
@@ -14,41 +13,41 @@ class ActivitySeeder extends Seeder
     public function run(): void
     {
         $dailies = [
-            "Check Traveling Merchant",
-            "Daily challenges",
-            "Jack of Trades",
-            "Reaper Assignment",
-            "PoF",
-            "Nemi Forest",
-            "Guthix Caches",
-            "Menaphos Obelisks",
-            "Menaphos Scarabs",
-            "Shop Run"
+            'Check Traveling Merchant',
+            'Daily challenges',
+            'Jack of Trades',
+            'Reaper Assignment',
+            'PoF',
+            'Nemi Forest',
+            'Guthix Caches',
+            'Menaphos Obelisks',
+            'Menaphos Scarabs',
+            'Shop Run',
         ];
         $weeklies = [
-            "Thalmund (Wednesday)",
-            "Meg",
-            "Tears of Guthix",
-            "Herby Werby",
-            "Circus",
-            "Penguins",
-            "Water Filtration",
-            "Miscellania",
-            "Fort Forinthry Bonus XP"
+            'Thalmund (Wednesday)',
+            'Meg',
+            'Tears of Guthix',
+            'Herby Werby',
+            'Circus',
+            'Penguins',
+            'Water Filtration',
+            'Miscellania',
+            'Fort Forinthry Bonus XP',
         ];
-        $monthlies = ["Premier Vault", "Giant Oyster", "God Statues"];
+        $monthlies = ['Premier Vault', 'Giant Oyster', 'God Statues'];
 
         $activities = [
             'daily' => $dailies,
             'weekly' => $weeklies,
-            'monthly' => $monthlies
+            'monthly' => $monthlies,
         ];
 
         foreach ($activities as $type => $activitiesArray) {
             foreach ($activitiesArray as $activity) {
                 Activity::create([
                     'type' => $type,
-                    'name' => $activity
+                    'name' => $activity,
                 ]);
             }
         }

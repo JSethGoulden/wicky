@@ -11,7 +11,7 @@ Schedule::job(new ProcessDailyActivities)
     ->at('00:00');
 
 Schedule::job(new ProcessWeeklyActivities)
-    ->wednesdays()
+    ->tuesdays()
     ->timezone('UTC')
     ->at('00:00');
 

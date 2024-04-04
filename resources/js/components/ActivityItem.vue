@@ -1,5 +1,17 @@
+<script>
+import { defineComponent } from "vue";
+import TravellingMerchant from "./TravellingMerchant.vue";
+
+export default defineComponent({
+    components: {
+        TravellingMerchant,
+    },
+});
+</script>
+
 <script setup>
 import { ref, computed } from "vue";
+
 const props = defineProps({
     id: Number,
     name: String,
@@ -29,20 +41,10 @@ const toggleActivity = async () => {
 
     if (response.status !== 200) {
         completed.value = !completed.value;
-        alert("aaaa");
+        //tood - error handling
+        alert("Something went wrong - try refreshing");
     }
 };
-</script>
-
-<script>
-import { defineComponent } from "vue";
-import TravellingMerchant from "./TravellingMerchant.vue";
-
-export default defineComponent({
-    components: {
-        TravellingMerchant,
-    },
-});
 </script>
 
 <template>
@@ -91,8 +93,9 @@ export default defineComponent({
             </div>
         </div>
         <div>
-            <component v-if="additionalComponent" :is="additionalComponent">
-            </component>
+            <template v-if="additionalComponent">
+                <component :is="additionalComponent"> </component>
+            </template>
         </div>
     </div>
 </template>

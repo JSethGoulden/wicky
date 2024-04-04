@@ -1,38 +1,26 @@
 <script setup>
-// response.parse.text[Object.keys(response.parse.text)[0]]
-// parser.parseFromString(response.parse.text[Object.keys(response.parse.text)[0]], 'application/xml')
-const getItems = async () => {
-    const response = await axios({
-        method: "get",
-        url: "https://runescape.wiki/api.php?format=json&action=parse&prop=text&disablelimitreport=1&text={{Travelling%20Merchant/api%7Cformat=simple}}",
-        headers: {
-            "x-requested-with": undefined,
-        },
-    });
-    // Parse the JSON response
-    const data = JSON.parse(response);
+import { ref, onMounted } from "vue";
 
-    // Check if the 'parse' key exists and if it contains 'text' key
-    if (data.parse && data.parse.text) {
-        // Extract text content
-        const textContent = data.parse.text["*"];
+const slotA = ref("");
+const slotB = ref("");
+const slotC = ref("");
 
-        // Split the text content into an array of items
-        const items = textContent.split("\u00a6");
+const getShopContents = async () => {
+    const response = await axios.get("api/todays-travelling-merchant-shop");
 
-        // Remove any leading/trailing white spaces from each item
-        const cleanedItems = items.map((item) => item.trim());
-
-        // Return the array of items
-        return cleanedItems.filter((item) => item !== "");
-    } else {
-        // If the required keys are missing, return an empty array
-        return [];
-    }
+    slotA.value = response.data.slotA;
+    slotB.value = response.data.slotB;
+    slotC.value = response.data.slotC;
 };
 
-console.log(await getItems());
+onMounted(() => {
+    getShopContents();
+});
 </script>
 <template>
-    <div>Traveling merchand stuff</div>
+    <ul>
+        <li>{{ slotA }}</li>
+        <li>{{ slotB }}</li>
+        <li>{{ slotC }}</li>
+    </ul>
 </template>

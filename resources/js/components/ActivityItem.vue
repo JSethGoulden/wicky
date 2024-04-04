@@ -1,10 +1,13 @@
 <script setup>
 import { ref, computed } from "vue";
-
 const props = defineProps({
     id: Number,
     name: String,
     initialCompleted: Boolean,
+    additionalComponent: {
+        type: String,
+        default: "",
+    },
 });
 
 const completed = ref(props.initialCompleted);
@@ -31,10 +34,21 @@ const toggleActivity = async () => {
 };
 </script>
 
+<script>
+import { defineComponent } from "vue";
+import TravellingMerchant from "./TravellingMerchant.vue";
+
+export default defineComponent({
+    components: {
+        TravellingMerchant,
+    },
+});
+</script>
+
 <template>
     <div
         :class="computedClass"
-        class="flex justify-between items-center border-b border-slate-200 py-3 px-2 border-l-4 border-l-transparent bg-gradient-to-r from-transparent to-transparent"
+        class="border-b border-slate-200 py-3 px-2 border-l-4 border-l-transparent bg-gradient-to-r from-transparent to-transparent"
     >
         <div class="inline-flex items-center space-x-2">
             <div @click="toggleActivity" class="select-none">
@@ -77,7 +91,8 @@ const toggleActivity = async () => {
             </div>
         </div>
         <div>
-            <!-- buttons? -->
+            <component v-if="additionalComponent" :is="additionalComponent">
+            </component>
         </div>
     </div>
 </template>

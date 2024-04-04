@@ -28,6 +28,7 @@ const props = defineProps({
                 v-for="activity in activities"
                 :id="activity.id"
                 :name="activity.name"
+                :additionalComponent="activity.additional_component"
                 :initialCompleted="!!activity.completed"
             />
         </div>

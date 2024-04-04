@@ -14,9 +14,9 @@ class ActivityController extends Controller
     public function index()
     {
         return view('dailyscape.index', [
-            'dailies' => Activity::select(['id', 'type', 'name', 'completed'])->where('type', 'daily')->orderByDesc('completed')->orderBy('name')->get(),
-            'weeklies' => Activity::select(['id', 'type', 'name', 'completed'])->where('type', 'weekly')->orderByDesc('completed')->orderBy('name')->get(),
-            'monthlies' => Activity::select(['id', 'type', 'name', 'completed'])->where('type', 'monthly')->orderByDesc('completed')->orderBy('name')->get(),
+            'dailies' => Activity::select(['id', 'type', 'name', 'completed', 'additional_component'])->where('type', 'daily')->orderByDesc('completed')->orderBy('name')->get(),
+            'weeklies' => Activity::select(['id', 'type', 'name', 'completed', 'additional_component'])->where('type', 'weekly')->orderByDesc('completed')->orderBy('name')->get(),
+            'monthlies' => Activity::select(['id', 'type', 'name', 'completed', 'additional_component'])->where('type', 'monthly')->orderByDesc('completed')->orderBy('name')->get(),
         ]);
     }
 

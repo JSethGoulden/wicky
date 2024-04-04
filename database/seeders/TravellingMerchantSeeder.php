@@ -3,7 +3,6 @@
 namespace Database\Seeders;
 
 use App\Models\TravellingMerchantShop;
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
 class TravellingMerchantSeeder extends Seeder
@@ -15,7 +14,7 @@ class TravellingMerchantSeeder extends Seeder
     {
         $data = file_get_contents(base_path('database/data/travellingmerchant.json'));
         $data = str_replace("\u{00a0}", '', $data);
-        foreach(json_decode($data) as $shop) {
+        foreach (json_decode($data) as $shop) {
             TravellingMerchantShop::create([
                 'date' => $shop->name,
                 'slotA' => $shop->slotA,

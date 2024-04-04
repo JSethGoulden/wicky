@@ -52,7 +52,7 @@ class ActivitySeeder extends Seeder
                 Activity::create([
                     'type' => $type,
                     'name' => $activity['name'],
-                    'additional_component' => $activity['additional_component'] ?? ''
+                    'additional_component' => $activity['additional_component'] ?? '',
                 ]);
             }
         }

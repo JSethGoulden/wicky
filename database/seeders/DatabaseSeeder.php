@@ -14,6 +14,7 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         $this->call(ActivitySeeder::class);
+        $this->call(TravellingMerchantSeeder::class);
 
         User::factory()->create([
             'id' => 1,

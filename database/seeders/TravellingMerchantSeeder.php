@@ -13,8 +13,9 @@ class TravellingMerchantSeeder extends Seeder
      */
     public function run(): void
     {
-        $data = json_decode(file_get_contents(base_path('database/data/travellingmerchant.json')));
-        foreach($data as $shop) {
+        $data = file_get_contents(base_path('database/data/travellingmerchant.json'));
+        $data = str_replace("\u{00a0}", '', $data);
+        foreach(json_decode($data) as $shop) {
             TravellingMerchantShop::create([
                 'date' => $shop->name,
                 'slotA' => $shop->slotA,

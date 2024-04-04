@@ -13,29 +13,33 @@ class ActivitySeeder extends Seeder
     public function run(): void
     {
         $dailies = [
-            'Check Traveling Merchant',
-            'Daily challenges',
-            'Jack of Trades',
-            'Reaper Assignment',
-            'PoF',
-            'Nemi Forest',
-            'Guthix Caches',
-            'Menaphos Obelisks',
-            'Menaphos Scarabs',
-            'Shop Run',
+            ['name' => 'Travelling Merchant', 'additional_component' => 'TravellingMerchant'],
+            ['name' => 'Daily challenges'],
+            ['name' => 'Jack of Trades'],
+            ['name' => 'Reaper Assignment'],
+            ['name' => 'PoF'],
+            ['name' => 'Nemi Forest', 'additional_component' => 'NemiForest'],
+            ['name' => 'Guthix Caches'],
+            ['name' => 'Menaphos Obelisks'],
+            ['name' => 'Menaphos Scarabs'],
+            ['name' => 'Shop Run'],
         ];
         $weeklies = [
-            'Thalmund (Wednesday)',
-            'Meg',
-            'Tears of Guthix',
-            'Herby Werby',
-            'Circus',
-            'Penguins',
-            'Water Filtration',
-            'Miscellania',
-            'Fort Forinthry Bonus XP',
+            ['name' => 'Thalmund (Wednesday)'],
+            ['name' => 'Meg'],
+            ['name' => 'Tears of Guthix'],
+            ['name' => 'Herby Werby'],
+            ['name' => 'Circus'],
+            ['name' => 'Penguins'],
+            ['name' => 'Water Filtration'],
+            ['name' => 'Miscellania'],
+            ['name' => 'Fort Forinthry Bonus XP'],
         ];
-        $monthlies = ['Premier Vault', 'Giant Oyster', 'God Statues'];
+        $monthlies = [
+            ['name' => 'Premier Vault'],
+            ['name' => 'Giant Oyster'],
+            ['name' => 'God Statues'],
+        ];
 
         $activities = [
             'daily' => $dailies,
@@ -47,7 +51,8 @@ class ActivitySeeder extends Seeder
             foreach ($activitiesArray as $activity) {
                 Activity::create([
                     'type' => $type,
-                    'name' => $activity,
+                    'name' => $activity['name'],
+                    'additional_component' => $activity['additional_component'] ?? ''
                 ]);
             }
         }

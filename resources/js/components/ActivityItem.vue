@@ -1,10 +1,12 @@
 <script>
 import { defineComponent } from "vue";
 import TravellingMerchant from "./TravellingMerchant.vue";
+import NemiForest from "./NemiForest.vue";
 
 export default defineComponent({
     components: {
         TravellingMerchant,
+        NemiForest,
     },
 });
 </script>

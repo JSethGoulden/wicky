@@ -2,2203 +2,3304 @@
     {
         "name": "4 April 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Shattered anima",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "5 April 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "6 April 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Shattered anima",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "7 April 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Shattered anima",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "8 April 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "9 April 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "10 April 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "11 April 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "12 April 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Gift for the Reaper",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "13 April 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Horn of honour",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "14 April 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Gift for the Reaper",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "15 April 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Gift for the Reaper",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "16 April 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "17 April 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Silverhawk Down",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "18 April 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Horn of honour",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "19 April 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "20 April 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Livid plant",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "21 April 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Sacred clay",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "22 April 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Livid plant",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "23 April 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Livid plant",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "24 April 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "25 April 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "26 April 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Sacred clay",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "27 April 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "28 April 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Anima crystal",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "29 April 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Horn of honour",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "30 April 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Anima crystal",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "1 May 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Anima crystal",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "2 May 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "3 May 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Tangled fishbowl",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "4 May 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Horn of honour",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "5 May 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "6 May 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Livid plant",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "7 May 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Sacred clay",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "8 May 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Unstable air rune",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "9 May 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Livid plant",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "10 May 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " D&D token (daily)",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "11 May 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Shattered anima",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "12 May 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Sacred clay",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "13 May 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " D&D token (daily)",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "14 May 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Anima crystal",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "15 May 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Barrel of bait",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "16 May 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Anima crystal",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "17 May 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Anima crystal",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "18 May 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Broken fishing rod",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "19 May 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Gift for the Reaper",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "20 May 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Barrel of bait",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "21 May 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Broken fishing rod",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "22 May 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Unstable air rune",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "23 May 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Silverhawk Down",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "24 May 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Unstable air rune",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "25 May 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Unstable air rune",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "26 May 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "27 May 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Shattered anima",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "28 May 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Silverhawk Down",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "29 May 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "30 May 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "31 May 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "1 June 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "2 June 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "3 June 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Broken fishing rod",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "4 June 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Gift for the Reaper",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "5 June 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "6 June 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Broken fishing rod",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "7 June 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "8 June 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Silverhawk Down",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "9 June 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "10 June 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "11 June 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "12 June 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Livid plant",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "13 June 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Silverhawk Down",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "14 June 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "15 June 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "16 June 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "17 June 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " D&D token (daily)",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "18 June 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "19 June 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Small goebie burial charm",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "20 June 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Anima crystal",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "21 June 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "22 June 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Small goebie burial charm",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "23 June 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "24 June 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Tangled fishbowl",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "25 June 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "26 June 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "27 June 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Advanced pulse core",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "28 June 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Unstable air rune",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "29 June 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Tangled fishbowl",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "30 June 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Advanced pulse core",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "1 July 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " D&D token (daily)",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "2 July 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Shattered anima",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "3 July 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " D&D token (daily)",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "4 July 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " D&D token (daily)",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "5 July 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "6 July 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Anima crystal",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "7 July 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Shattered anima",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "8 July 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "9 July 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Broken fishing rod",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "10 July 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Gift for the Reaper",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "11 July 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Broken fishing rod",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "12 July 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Broken fishing rod",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "13 July 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Advanced pulse core",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "14 July 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Unstable air rune",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "15 July 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Gift for the Reaper",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "16 July 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Advanced pulse core",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "17 July 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "18 July 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Shattered anima",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "19 July 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "20 July 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "21 July 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "22 July 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "23 July 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Shattered anima",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "24 July 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "25 July 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Broken fishing rod",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "26 July 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Gift for the Reaper",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "27 July 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Small goebie burial charm",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "28 July 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Broken fishing rod",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "29 July 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Horn of honour",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "30 July 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "31 July 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Gift for the Reaper",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "1 August 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Horn of honour",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "2 August 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "3 August 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Livid plant",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "4 August 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "5 August 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "6 August 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Sacred clay",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "7 August 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " D&D token (daily)",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "8 August 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Livid plant",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "9 August 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Sacred clay",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "10 August 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Small goebie burial charm",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "11 August 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Anima crystal",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "12 August 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Small goebie burial charm",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "13 August 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Small goebie burial charm",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "14 August 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Barrel of bait",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "15 August 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "16 August 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Anima crystal",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "17 August 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Barrel of bait",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "18 August 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Advanced pulse core",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "19 August 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Unstable air rune",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "20 August 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Advanced pulse core",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "21 August 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Advanced pulse core",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "22 August 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Sacred clay",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "23 August 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " D&D token (daily)",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "24 August 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Unstable air rune",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "25 August 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Sacred clay",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "26 August 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "27 August 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Anima crystal",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "28 August 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "29 August 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "30 August 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Barrel of bait",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "31 August 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Broken fishing rod",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "1 September 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Anima crystal",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "2 September 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Barrel of bait",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "3 September 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Advanced pulse core",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "4 September 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Unstable air rune",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "5 September 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Horn of honour",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "6 September 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Advanced pulse core",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "7 September 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Silverhawk Down",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "8 September 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "9 September 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Unstable air rune",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "10 September 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Silverhawk Down",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "11 September 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "12 September 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "13 September 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "14 September 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "15 September 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "16 September 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Small goebie burial charm",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "17 September 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "18 September 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "19 September 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Horn of honour",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "20 September 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "21 September 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Horn of honour",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "22 September 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Horn of honour",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "23 September 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Tangled fishbowl",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "24 September 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "25 September 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "26 September 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Tangled fishbowl",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "27 September 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Sacred clay",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "28 September 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " D&D token (daily)",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "29 September 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Sacred clay",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "30 September 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Sacred clay",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "1 October 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "2 October 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Small goebie burial charm",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "3 October 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " D&D token (daily)",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "4 October 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "5 October 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Barrel of bait",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "6 October 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "7 October 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Barrel of bait",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "8 October 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Barrel of bait",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "9 October 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Tangled fishbowl",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "10 October 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Advanced pulse core",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "11 October 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "12 October 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Tangled fishbowl",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "13 October 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Sacred clay",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "14 October 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " D&D token (daily)",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "15 October 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Silverhawk Down",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "16 October 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Sacred clay",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "17 October 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Shattered anima",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "18 October 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "19 October 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " D&D token (daily)",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "20 October 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Shattered anima",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "21 October 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Barrel of bait",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "22 October 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Broken fishing rod",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "23 October 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Barrel of bait",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "24 October 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Barrel of bait",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "25 October 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Gift for the Reaper",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "26 October 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Horn of honour",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "27 October 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Broken fishing rod",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "28 October 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Gift for the Reaper",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "29 October 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Silverhawk Down",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "30 October 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "31 October 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Silverhawk Down",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "1 November 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Silverhawk Down",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "2 November 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Livid plant",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "3 November 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "4 November 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "5 November 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Livid plant",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "6 November 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "7 November 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Small goebie burial charm",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "8 November 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "9 November 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "10 November 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Gift for the Reaper",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "11 November 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Horn of honour",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "12 November 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Small goebie burial charm",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "13 November 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Gift for the Reaper",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "14 November 2024",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Tangled fishbowl",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "15 November 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "16 November 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Tangled fishbowl",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "17 November 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Tangled fishbowl",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "18 November 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Livid plant",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "19 November 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Sacred clay",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "20 November 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "21 November 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Livid plant",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "22 November 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "23 November 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Small goebie burial charm",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "24 November 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Shattered anima",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "25 November 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "26 November 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Anima crystal",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "27 November 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Barrel of bait",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "28 November 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Small goebie burial charm",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "29 November 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Anima crystal",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "30 November 2024",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Tangled fishbowl",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "1 December 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Advanced pulse core",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "2 December 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Tangled fishbowl",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "3 December 2024",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Tangled fishbowl",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "4 December 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Unstable air rune",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "5 December 2024",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Silverhawk Down",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "6 December 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Advanced pulse core",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "7 December 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Unstable air rune",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "8 December 2024",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Shattered anima",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "9 December 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "10 December 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Shattered anima",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "11 December 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Shattered anima",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "12 December 2024",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "13 December 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Barrel of bait",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "14 December 2024",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "15 December 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "16 December 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Gift for the Reaper",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "17 December 2024",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Horn of honour",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "18 December 2024",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Gift for the Reaper",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "19 December 2024",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Gift for the Reaper",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "20 December 2024",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Unstable air rune",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "21 December 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Silverhawk Down",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "22 December 2024",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Horn of honour",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "23 December 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Unstable air rune",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "24 December 2024",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Livid plant",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "25 December 2024",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "26 December 2024",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Livid plant",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "27 December 2024",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Livid plant",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "28 December 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "29 December 2024",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "30 December 2024",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "31 December 2024",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "1 January 2025",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Gift for the Reaper",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "2 January 2025",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Horn of honour",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "3 January 2025",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Anima crystal",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "4 January 2025",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Gift for the Reaper",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "5 January 2025",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "6 January 2025",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Tangled fishbowl",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "7 January 2025",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Horn of honour",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "8 January 2025",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "9 January 2025",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Livid plant",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "10 January 2025",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Sacred clay",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "11 January 2025",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Livid plant",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "12 January 2025",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Livid plant",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "13 January 2025",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " D&D token (daily)",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "14 January 2025",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Shattered anima",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "15 January 2025",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Sacred clay",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "16 January 2025",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " D&D token (daily)",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "17 January 2025",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Anima crystal",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "18 January 2025",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Barrel of bait",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "19 January 2025",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Anima crystal",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "20 January 2025",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Anima crystal",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "21 January 2025",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Broken fishing rod",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "22 January 2025",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Tangled fishbowl",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "23 January 2025",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Barrel of bait",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "24 January 2025",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Broken fishing rod",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "25 January 2025",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Unstable air rune",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "26 January 2025",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Silverhawk Down",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "27 January 2025",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Unstable air rune",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "28 January 2025",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Unstable air rune",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "29 January 2025",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " D&D token (daily)",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "30 January 2025",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Shattered anima",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "31 January 2025",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Silverhawk Down",
-        "slotC": " Menaphite gift offering (large)"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Menaphite gift offering (large)",
+        "slotCImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28large%29.png?0e2f7"
     },
     {
         "name": "1 February 2025",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " D&D token (daily)",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "2 February 2025",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "3 February 2025",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Barrel of bait",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "4 February 2025",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "5 February 2025",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "6 February 2025",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Broken fishing rod",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "7 February 2025",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Gift for the Reaper",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "8 February 2025",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Barrel of bait",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "9 February 2025",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Broken fishing rod",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "10 February 2025",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Unstable air rune",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "11 February 2025",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Silverhawk Down",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "12 February 2025",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "13 February 2025",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Unstable air rune",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "14 February 2025",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "15 February 2025",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " Livid plant",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "16 February 2025",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " Silverhawk Down",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "17 February 2025",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "18 February 2025",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "19 February 2025",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "20 February 2025",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "21 February 2025",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "22 February 2025",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Small goebie burial charm",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "23 February 2025",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Anima crystal",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "24 February 2025",
         "slotA": " Small goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
         "slotB": " Medium goebie burial charm",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "25 February 2025",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Small goebie burial charm",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "26 February 2025",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "27 February 2025",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Tangled fishbowl",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "28 February 2025",
         "slotA": " Unfocused damage enhancer",
+        "slotAImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "1 March 2025",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "2 March 2025",
         "slotA": " Silverhawk Down",
+        "slotAImg": "https://runescape.wiki/images/Silverhawk_down_5.png?23076",
         "slotB": " Advanced pulse core",
-        "slotC": " Taijitu"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " Taijitu",
+        "slotCImg": "https://runescape.wiki/images/Taijitu.png?ace67"
     },
     {
         "name": "3 March 2025",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Livid plant",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "4 March 2025",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Tangled fishbowl",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "5 March 2025",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Advanced pulse core",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "6 March 2025",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " D&D token (daily)",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "7 March 2025",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Shattered anima",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "8 March 2025",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " D&D token (daily)",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "9 March 2025",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " D&D token (daily)",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "10 March 2025",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Small goebie burial charm",
-        "slotC": " Dragonkin lamp"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Dragonkin lamp",
+        "slotCImg": "https://runescape.wiki/images/Dragonkin_lamp.png?decf8"
     },
     {
         "name": "11 March 2025",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Anima crystal",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "12 March 2025",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Shattered anima",
-        "slotC": " Starved ancient effigy"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Starved ancient effigy",
+        "slotCImg": "https://runescape.wiki/images/Starved_ancient_effigy.png?a147c"
     },
     {
         "name": "13 March 2025",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Small goebie burial charm",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Small_goebie_burial_charm.png?ea56f",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "14 March 2025",
         "slotA": " Broken fishing rod",
+        "slotAImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
         "slotB": " Broken fishing rod",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "15 March 2025",
         "slotA": " Unstable air rune",
+        "slotAImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
         "slotB": " Tangled fishbowl",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "16 March 2025",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Broken fishing rod",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "17 March 2025",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Broken fishing rod",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "18 March 2025",
         "slotA": " Livid plant",
+        "slotAImg": "https://runescape.wiki/images/Livid_plant_%28Deep_Sea_Fishing%29.png?35d30",
         "slotB": " Advanced pulse core",
-        "slotC": " D&D token (weekly)"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " D&D token (weekly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28weekly%29.png?ddcbb"
     },
     {
         "name": "19 March 2025",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Unstable air rune",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Unstable_air_rune.png?50b0f",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "20 March 2025",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Tangled fishbowl",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "21 March 2025",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Advanced pulse core",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     },
     {
         "name": "22 March 2025",
         "slotA": " D&D token (daily)",
+        "slotAImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
         "slotB": " D&D token (daily)",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "23 March 2025",
         "slotA": " Shattered anima",
+        "slotAImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
         "slotB": " Shattered anima",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "24 March 2025",
         "slotA": " Slayer VIP Coupon",
+        "slotAImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
         "slotB": " Slayer VIP Coupon",
-        "slotC": " Unfocused reward enhancer"
+        "slotBImg": "https://runescape.wiki/images/Slayer_VIP_Coupon.png?c1e19",
+        "slotC": " Unfocused reward enhancer",
+        "slotCImg": "https://runescape.wiki/images/Unfocused_reward_enhancer.png?657b7"
     },
     {
         "name": "25 March 2025",
         "slotA": " Sacred clay",
+        "slotAImg": "https://runescape.wiki/images/Sacred_clay_%28Deep_Sea_Fishing%29.png?cb0f4",
         "slotB": " D&D token (daily)",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28daily%29.png?1d773",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "26 March 2025",
         "slotA": " Medium goebie burial charm",
+        "slotAImg": "https://runescape.wiki/images/Goebie_burial_charm.png?c30ed",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "27 March 2025",
         "slotA": " Barrel of bait",
+        "slotAImg": "https://runescape.wiki/images/Barrel_of_bait.png?4758a",
         "slotB": " Menaphite gift offering (small)",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "28 March 2025",
         "slotA": " Menaphite gift offering (medium)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
         "slotB": " Shattered anima",
-        "slotC": " Harmonic dust"
+        "slotBImg": "https://runescape.wiki/images/Shattered_anima.png?05e90",
+        "slotC": " Harmonic dust",
+        "slotCImg": "https://runescape.wiki/images/Harmonic_dust.png?6981a"
     },
     {
         "name": "29 March 2025",
         "slotA": " Menaphite gift offering (small)",
+        "slotAImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28small%29.png?0d4e8",
         "slotB": " Menaphite gift offering (medium)",
-        "slotC": " Deathtouched dart"
+        "slotBImg": "https://runescape.wiki/images/Menaphite_gift_offering_%28medium%29.png?1ab8d",
+        "slotC": " Deathtouched dart",
+        "slotCImg": "https://runescape.wiki/images/Deathtouched_dart.png?343fa"
     },
     {
         "name": "30 March 2025",
         "slotA": " Horn of honour",
+        "slotAImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
         "slotB": " Broken fishing rod",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "31 March 2025",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Gift for the Reaper",
-        "slotC": " Dungeoneering Wildcard"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " Dungeoneering Wildcard",
+        "slotCImg": "https://runescape.wiki/images/Dungeoneering_Wildcard.png?11b82"
     },
     {
         "name": "1 April 2025",
         "slotA": " Anima crystal",
+        "slotAImg": "https://runescape.wiki/images/Anima_crystal.png?77edd",
         "slotB": " Broken fishing rod",
-        "slotC": " Message in a bottle"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Message in a bottle",
+        "slotCImg": "https://runescape.wiki/images/Message_in_a_bottle_%28Deep_Sea_Fishing%29.png?00ce9"
     },
     {
         "name": "2 April 2025",
         "slotA": " Gift for the Reaper",
+        "slotAImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
         "slotB": " Broken fishing rod",
-        "slotC": " Crystal triskelion"
+        "slotBImg": "https://runescape.wiki/images/Broken_fishing_rod.png?6eabc",
+        "slotC": " Crystal triskelion",
+        "slotCImg": "https://runescape.wiki/images/Crystal_triskelion.png?0d306"
     },
     {
         "name": "3 April 2025",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Horn of honour",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Horn_of_honour.png?17841",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "4 April 2025",
         "slotA": " Advanced pulse core",
+        "slotAImg": "https://runescape.wiki/images/Advanced_pulse_core.png?3eb39",
         "slotB": " Unfocused damage enhancer",
-        "slotC": " Large goebie burial charm"
+        "slotBImg": "https://runescape.wiki/images/Unfocused_damage_enhancer.png?e61ee",
+        "slotC": " Large goebie burial charm",
+        "slotCImg": "https://runescape.wiki/images/Large_goebie_burial_charm.png?c6999"
     },
     {
         "name": "5 April 2025",
         "slotA": " Tangled fishbowl",
+        "slotAImg": "https://runescape.wiki/images/Tangled_fishbowl.png?73e40",
         "slotB": " Gift for the Reaper",
-        "slotC": " D&D token (monthly)"
+        "slotBImg": "https://runescape.wiki/images/Gift_for_the_Reaper.png?57320",
+        "slotC": " D&D token (monthly)",
+        "slotCImg": "https://runescape.wiki/images/Distraction_%26_Diversion_reset_token_%28monthly%29.png?94ad5"
     }
 ]

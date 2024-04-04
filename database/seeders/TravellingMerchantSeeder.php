@@ -21,6 +21,9 @@ class TravellingMerchantSeeder extends Seeder
                 'slotA' => $shop->slotA,
                 'slotB' => $shop->slotB,
                 'slotC' => $shop->slotC,
+                'slotAImg' => $shop->slotAImg,
+                'slotBImg' => $shop->slotBImg,
+                'slotCImg' => $shop->slotCImg,
             ]);
         }
     }

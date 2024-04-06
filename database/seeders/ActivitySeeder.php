@@ -23,6 +23,7 @@ class ActivitySeeder extends Seeder
             ['name' => 'Menaphos Obelisks'],
             ['name' => 'Menaphos Scarabs'],
             ['name' => 'Shop Run'],
+            ['name' => 'Red Sandstone'],
         ];
         $weeklies = [
             ['name' => 'Thalmund (Wednesday)'],

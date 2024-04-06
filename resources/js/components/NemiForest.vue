@@ -11,7 +11,7 @@ onMounted(async () => {
 });
 </script>
 <template>
-    <a :href="img" v-if="img">
+    <a :href="img" v-if="img" target="_blank">
         <img :src="thumbnail" alt="Nemi Forest" class="ml-2" />
     </a>
 </template>

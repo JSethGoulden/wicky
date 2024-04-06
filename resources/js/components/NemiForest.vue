@@ -8,7 +8,6 @@ onMounted(async () => {
     const response = await axios.get("api/nemi-forest");
     thumbnail.value = response.data.thumbnail;
     img.value = response.data.img;
-    console.log(response.data);
 });
 </script>
 <template>

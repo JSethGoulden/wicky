@@ -24,6 +24,7 @@ class ActivitySeeder extends Seeder
             ['name' => 'Menaphos Scarabs'],
             ['name' => 'Shop Run'],
             ['name' => 'Red Sandstone'],
+            ['name' => 'Rune Goldberg', 'additional_component' => 'RuneGoldberg'],
         ];
         $weeklies = [
             ['name' => 'Thalmund (Wednesday)'],

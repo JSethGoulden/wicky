@@ -2,11 +2,13 @@
 import { defineComponent } from "vue";
 import TravellingMerchant from "./TravellingMerchant.vue";
 import NemiForest from "./NemiForest.vue";
+import RuneGoldberg from "./RuneGoldberg.vue";
 
 export default defineComponent({
     components: {
         TravellingMerchant,
         NemiForest,
+        RuneGoldberg,
     },
 });
 </script>

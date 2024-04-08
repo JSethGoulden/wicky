@@ -31,7 +31,7 @@ class RuneGoldbergService
             }
 
             return array_map(function ($img) {
-                return 'https://runescape.wiki' . $img;
+                return 'https://runescape.wiki'.$img;
             }, $matches[1]);
         } catch (\Exception $e) {
             Log::error($e);

@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/todays-travelling-merchant-shop', function () {
     return App\Models\TravellingMerchantShop::select('date', 'slotA', 'slotB', 'slotC', 'slotAImg', 'slotBImg', 'slotCImg')
-        ->where('date', Carbon::now()->format('y F Y'))
+        ->where('date', Carbon::now()->format('d F Y'))
         ->first();
 });
 

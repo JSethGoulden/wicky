@@ -11,8 +11,13 @@ class Activity extends Model
 
     protected $guarded = [];
 
-    public function completions()
+    public function completions(): int
     {
         return ActivityHistory::where('activity_id', $this->id)->count();
+    }
+
+    protected static function booted(): void
+    {
+        // static::addGlobalScope()
     }
 }

@@ -34,13 +34,13 @@ class ActivitySeeder extends Seeder
             ['name' => 'Circus'],
             ['name' => 'Penguins'],
             ['name' => 'Water Filtration'],
-            ['name' => 'Miscellania'],
             ['name' => 'Fort Forinthry Bonus XP'],
         ];
         $monthlies = [
             ['name' => 'Premier Vault'],
             ['name' => 'Giant Oyster'],
             ['name' => 'God Statues'],
+            ['name' => 'Miscellania'],
         ];
 
         $activities = [

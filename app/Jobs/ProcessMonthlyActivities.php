@@ -34,6 +34,7 @@ class ProcessMonthlyActivities implements ShouldQueue
 
         foreach ($activites as $activity) {
             ActivityHistory::create(['activity_id' => $activity->id]);
+            $activity->update(['completed' => false]);
         }
     }
 }
